@@ -1,0 +1,501 @@
+id,name,address,location,area,price,tenure_of_stay,is_vacant,priority,image_url
+1,Daniel Brown,509 Park Ave,"Nashville, TN",869,226305.52,3 months,False,Medium,https://picsum.photos/seed/house1/400/300
+2,James Williams,3682 Sunset Blvd,"Atlanta, GA",1264,330947.72,5 years,True,Medium,https://picsum.photos/seed/house2/400/300
+3,William Smith,2715 Lake St,"New York, NY",1828,210091.83,3 years,False,Medium,https://picsum.photos/seed/house3/400/300
+4,Betty Johnson,7627 Hillcrest Dr,"Atlanta, GA",1650,470629.47,3 years,False,Low,https://picsum.photos/seed/house4/400/300
+5,Robert Johnson,3833 Main St,"Tampa, FL",1588,320205.79,6 months,False,Low,https://picsum.photos/seed/house5/400/300
+6,Nancy Rodriguez,1269 Washington Ave,"Spokane, WA",2004,318292.18,Lease (12 months),True,Medium,https://picsum.photos/seed/house6/400/300
+7,Mark Johnson,3852 Oak Ave Apt 21,"Houston, TX",1314,400571.6,3 years,True,Medium,https://picsum.photos/seed/house7/400/300
+8,Richard Lee,7617 Elm St,"Nashville, TN",2749,598129.45,5 years,False,Low,https://picsum.photos/seed/house8/400/300
+9,Linda Jones,8448 5th Ave,"San Francisco, CA",3020,391533.12,3 months,False,Low,https://picsum.photos/seed/house9/400/300
+10,Joseph Taylor,4219 Hillcrest Dr Unit 4,"Las Vegas, NV",2649,706269.29,3 years,True,Low,https://picsum.photos/seed/house10/400/300
+11,Jennifer Anderson,153 Park Ave Unit 6,"Salt Lake City, UT",885,257812.95,Lease (12 months),False,Low,https://picsum.photos/seed/house11/400/300
+12,Barbara Garcia,8937 2nd St Apt 1,"Denver, CO",529,63480.56,2 years,True,Low,https://picsum.photos/seed/house12/400/300
+13,Donald Jackson,1390 Pine Rd Unit 3,"Charlotte, NC",965,119852.13,Lease (12 months),True,Low,https://picsum.photos/seed/house13/400/300
+14,Margaret Martin,7032 Lincoln Dr Unit 7,"Springfield, IL",2084,672552.55,Month-to-month,False,Medium,https://picsum.photos/seed/house14/400/300
+15,Linda Davis,1149 Broadway Unit 19,"Buffalo, NY",2860,398678.86,1 month,True,Low,https://picsum.photos/seed/house15/400/300
+16,Mary Hernandez,1260 2nd St Unit 9,"Denver, CO",1327,293476.64,Month-to-month,True,High,https://picsum.photos/seed/house16/400/300
+17,Betty Wilson,3219 Cedar Blvd Apt 7,"Seattle, WA",2133,430669.15,3 months,True,Medium,https://picsum.photos/seed/house17/400/300
+18,David Brown,4173 Lincoln Dr Apt 13,"San Francisco, CA",2178,292189.06,3 months,False,High,https://picsum.photos/seed/house18/400/300
+19,Margaret Moore,1704 Oak Ave,"Salt Lake City, UT",1418,186573.53,1 year,False,High,https://picsum.photos/seed/house19/400/300
+20,Jennifer Gonzalez,135 River Rd Apt 17,"Seattle, WA",2726,665053.5,1 year,False,Low,https://picsum.photos/seed/house20/400/300
+21,Mary Jackson,8983 Oak Ave,"Savannah, GA",2402,506039.12,6 months,True,Featured,https://picsum.photos/seed/house21/400/300
+22,Robert Garcia,1222 Pine Rd,"Las Vegas, NV",2783,414960.37,3 months,False,Medium,https://picsum.photos/seed/house22/400/300
+23,Charles Taylor,5283 Park Ave,"Chicago, IL",2071,256641.27,Month-to-month,False,High,https://picsum.photos/seed/house23/400/300
+24,Sandra Williams,252 Church St,"Houston, TX",2652,368999.61,3 years,True,High,https://picsum.photos/seed/house24/400/300
+25,Barbara Martinez,2684 Church St Unit 10,"Columbus, OH",3128,670418.36,Lease (12 months),False,High,https://picsum.photos/seed/house25/400/300
+26,Patricia Jones,4433 Cedar Blvd,"Chicago, IL",1604,376846.06,1 year,False,Medium,https://picsum.photos/seed/house26/400/300
+27,William Taylor,8104 Park Ave Unit 3,"Seattle, WA",1583,160192.68,6 months,False,Featured,https://picsum.photos/seed/house27/400/300
+28,Jennifer White,7339 Hillcrest Dr,"Los Angeles, CA",758,241800.57,6 months,False,Low,https://picsum.photos/seed/house28/400/300
+29,Barbara Jackson,9152 Elm St,"Springfield, IL",1943,587538.28,1 month,False,Low,https://picsum.photos/seed/house29/400/300
+30,Linda Perez,1784 Highland Dr Unit 14,"Nashville, TN",1083,327803.26,6 months,True,High,https://picsum.photos/seed/house30/400/300
+31,James Garcia,5542 Lake St,"Columbus, OH",892,154536.75,Month-to-month,True,Low,https://picsum.photos/seed/house31/400/300
+32,Sandra Anderson,5828 Main St,"Boston, MA",1241,225996.21,3 months,False,Low,https://picsum.photos/seed/house32/400/300
+33,Thomas Gonzalez,8885 Broadway Apt 2,"San Diego, CA",2828,880900.15,3 months,False,Medium,https://picsum.photos/seed/house33/400/300
+34,Lisa Hernandez,7249 2nd St Unit 13,"New York, NY",1493,153333.04,Lease (12 months),False,Medium,https://picsum.photos/seed/house34/400/300
+35,Lisa White,3328 Highland Dr Unit 3,"Salt Lake City, UT",1802,428720.74,3 months,False,High,https://picsum.photos/seed/house35/400/300
+36,Thomas Martinez,6791 Broadway Unit 10,"San Francisco, CA",1235,244385.05,6 months,False,Medium,https://picsum.photos/seed/house36/400/300
+37,Richard Moore,106 Main St Apt 19,"Columbus, OH",2825,649873.34,Month-to-month,False,Medium,https://picsum.photos/seed/house37/400/300
+38,Thomas Thomas,2880 Pine Rd Unit 17,"Tucson, AZ",2986,510309.06,1 year,False,Low,https://picsum.photos/seed/house38/400/300
+39,Betty Miller,2514 Maple St Apt 3,"Phoenix, AZ",748,158392.54,1 year,False,Medium,https://picsum.photos/seed/house39/400/300
+40,Jessica Gonzalez,4097 Elm St Apt 1,"Buffalo, NY",1170,330604.2,Month-to-month,True,Medium,https://picsum.photos/seed/house40/400/300
+41,Sandra Brown,7578 Elm St Unit 17,"Phoenix, AZ",1749,552410.95,Lease (12 months),False,High,https://picsum.photos/seed/house41/400/300
+42,Sarah Anderson,2707 5th Ave,"Detroit, MI",3061,481279.01,Month-to-month,False,Low,https://picsum.photos/seed/house42/400/300
+43,Joseph Williams,4781 Sunset Blvd Apt 18,"Las Vegas, NV",2662,286931.09,5 years,False,Low,https://picsum.photos/seed/house43/400/300
+44,Michael Williams,6897 Lake St Apt 22,"Seattle, WA",705,100391.07,1 month,False,Low,https://picsum.photos/seed/house44/400/300
+45,James Lopez,4992 River Rd Unit 18,"Nashville, TN",2686,748838.79,Month-to-month,True,Low,https://picsum.photos/seed/house45/400/300
+46,Jessica Smith,6471 Broadway Apt 26,"Salt Lake City, UT",972,312412.68,5 years,False,Medium,https://picsum.photos/seed/house46/400/300
+47,James Williams,7122 Elm St,"Chicago, IL",2002,335006.8,3 years,False,Low,https://picsum.photos/seed/house47/400/300
+48,Mark Wilson,4233 Pine Rd Unit 1,"Atlanta, GA",663,214145.15,3 months,False,Low,https://picsum.photos/seed/house48/400/300
+49,James Davis,3366 Maple St,"San Francisco, CA",2389,589136.94,1 year,False,Medium,https://picsum.photos/seed/house49/400/300
+50,Anthony Lopez,2849 Cedar Blvd,"Savannah, GA",555,175038.38,5 years,False,High,https://picsum.photos/seed/house50/400/300
+51,Michael Williams,9800 Sunset Blvd Unit 10,"Phoenix, AZ",945,264428.64,1 month,False,Medium,https://picsum.photos/seed/house51/400/300
+52,Nancy Lopez,1229 2nd St Apt 22,"Detroit, MI",2457,294986.82,Month-to-month,False,Low,https://picsum.photos/seed/house52/400/300
+53,Jennifer White,8648 Park Ave Apt 40,"Spokane, WA",2234,632188.44,3 years,True,High,https://picsum.photos/seed/house53/400/300
+54,Robert Rodriguez,7485 Sunset Blvd Unit 19,"Boston, MA",2002,339963.32,3 years,True,Medium,https://picsum.photos/seed/house54/400/300
+55,Barbara Rodriguez,5676 Park Ave Unit 9,"Austin, TX",2566,787179.83,5 years,False,Medium,https://picsum.photos/seed/house55/400/300
+56,Linda Thompson,7900 5th Ave,"Springfield, IL",1357,248213.74,3 years,False,Medium,https://picsum.photos/seed/house56/400/300
+57,Barbara Wilson,9117 Broadway Apt 23,"Springfield, IL",1479,220957.81,3 years,True,Medium,https://picsum.photos/seed/house57/400/300
+58,Anthony Thompson,3133 Lincoln Dr Apt 14,"Nashville, TN",2864,906563.32,2 years,True,High,https://picsum.photos/seed/house58/400/300
+59,Elizabeth Davis,6012 Washington Ave Unit 1,"Atlanta, GA",968,162678.57,Lease (12 months),False,Medium,https://picsum.photos/seed/house59/400/300
+60,John Lee,8142 Cedar Blvd Apt 1,"Denver, CO",2410,459739.13,1 month,False,High,https://picsum.photos/seed/house60/400/300
+61,Jessica Brown,1170 River Rd Unit 3,"Tucson, AZ",669,94779.08,2 years,True,Featured,https://picsum.photos/seed/house61/400/300
+62,Patricia Moore,6918 Sunset Blvd Apt 34,"Salt Lake City, UT",2263,365209.83,5 years,False,Medium,https://picsum.photos/seed/house62/400/300
+63,Mary Martin,1725 Lincoln Dr Unit 9,"Houston, TX",1093,164709.55,6 months,True,Medium,https://picsum.photos/seed/house63/400/300
+64,Matthew Martin,7799 Main St Apt 3,"Portland, OR",1608,408793.55,1 year,False,High,https://picsum.photos/seed/house64/400/300
+65,Daniel Jackson,3341 Lake St,"Tucson, AZ",1060,328403.33,3 months,True,Low,https://picsum.photos/seed/house65/400/300
+66,Elizabeth Martin,9425 Main St Apt 29,"Portland, OR",1695,439194.7,Lease (12 months),False,Medium,https://picsum.photos/seed/house66/400/300
+67,Robert Martin,753 Lake St Apt 21,"Austin, TX",824,126031.72,1 month,False,High,https://picsum.photos/seed/house67/400/300
+68,Charles Johnson,2970 5th Ave Apt 34,"San Diego, CA",2847,552936.75,3 months,False,Low,https://picsum.photos/seed/house68/400/300
+69,David Hernandez,1813 Washington Ave Unit 14,"Denver, CO",1630,398111.61,Lease (12 months),True,Medium,https://picsum.photos/seed/house69/400/300
+70,David Rodriguez,5396 Cedar Blvd,"Boston, MA",2672,520476.26,Lease (12 months),False,Medium,https://picsum.photos/seed/house70/400/300
+71,Jessica Lee,7342 Oak Ave Unit 9,"San Francisco, CA",1629,319723.96,3 months,True,Featured,https://picsum.photos/seed/house71/400/300
+72,Karen Davis,2694 Main St Unit 1,"Seattle, WA",831,129565.15,3 months,False,High,https://picsum.photos/seed/house72/400/300
+73,Daniel Jones,8265 Main St Apt 33,"Detroit, MI",2426,765171.52,Lease (12 months),True,Low,https://picsum.photos/seed/house73/400/300
+74,Sandra Martin,8427 Elm St Apt 5,"Miami, FL",2529,378067.63,2 years,False,Medium,https://picsum.photos/seed/house74/400/300
+75,Nancy Thomas,2534 Church St Apt 35,"Miami, FL",2710,721942.74,3 years,True,Featured,https://picsum.photos/seed/house75/400/300
+76,Linda Jackson,6374 Sunset Blvd Apt 27,"Nashville, TN",2387,613235.34,5 years,False,High,https://picsum.photos/seed/house76/400/300
+77,Daniel Jones,8215 Oak Ave Unit 17,"Miami, FL",861,254412.04,Lease (12 months),False,Low,https://picsum.photos/seed/house77/400/300
+78,John Wilson,2629 Pine Rd Apt 31,"Phoenix, AZ",2078,509638.24,Lease (12 months),False,Featured,https://picsum.photos/seed/house78/400/300
+79,Daniel Thompson,8094 Hillcrest Dr,"Buffalo, NY",3035,751642.7,1 year,False,Low,https://picsum.photos/seed/house79/400/300
+80,Patricia Lee,1746 Church St,"Dallas, TX",1778,486462.26,3 years,False,Low,https://picsum.photos/seed/house80/400/300
+81,Thomas Wilson,9372 Washington Ave,"Phoenix, AZ",2016,468603.9,6 months,True,Medium,https://picsum.photos/seed/house81/400/300
+82,William Anderson,4283 Maple St Unit 10,"Atlanta, GA",1097,131270.81,2 years,False,Featured,https://picsum.photos/seed/house82/400/300
+83,Matthew Rodriguez,7584 Main St Apt 13,"Los Angeles, CA",1421,254710.48,2 years,False,Low,https://picsum.photos/seed/house83/400/300
+84,Mark Perez,6584 Park Ave Unit 19,"Charlotte, NC",650,204540.68,2 years,True,Medium,https://picsum.photos/seed/house84/400/300
+85,Barbara Davis,3215 Park Ave Unit 4,"Tucson, AZ",611,102220.8,3 years,False,Low,https://picsum.photos/seed/house85/400/300
+86,Sandra Martinez,5452 Lake St,"Columbus, OH",2659,777644.16,Lease (12 months),False,High,https://picsum.photos/seed/house86/400/300
+87,William Thomas,4935 Broadway,"San Francisco, CA",1374,404965.97,5 years,False,Low,https://picsum.photos/seed/house87/400/300
+88,Betty Gonzalez,328 Park Ave Apt 35,"Orlando, FL",1523,353283.9,3 years,True,Medium,https://picsum.photos/seed/house88/400/300
+89,Jessica Smith,9298 Broadway Unit 8,"Houston, TX",3052,866181.26,2 years,False,Medium,https://picsum.photos/seed/house89/400/300
+90,John Johnson,709 Main St,"Buffalo, NY",2651,325381.32,Lease (12 months),False,Medium,https://picsum.photos/seed/house90/400/300
+91,Lisa Jones,6897 Cedar Blvd Apt 32,"Chicago, IL",584,144623.89,Month-to-month,True,High,https://picsum.photos/seed/house91/400/300
+92,Patricia Perez,6118 Hillcrest Dr Apt 23,"Chicago, IL",1227,397647.88,Month-to-month,True,Medium,https://picsum.photos/seed/house92/400/300
+93,Daniel Lee,9883 Maple St,"San Francisco, CA",2762,390535.25,Lease (12 months),True,Medium,https://picsum.photos/seed/house93/400/300
+94,Mark Davis,5483 Elm St Apt 39,"Minneapolis, MN",1042,336255.1,6 months,True,Medium,https://picsum.photos/seed/house94/400/300
+95,James Jones,343 Highland Dr Apt 16,"Austin, TX",1163,173188.33,5 years,False,Low,https://picsum.photos/seed/house95/400/300
+96,Robert Thomas,7444 Highland Dr,"Spokane, WA",2513,361525.68,Lease (12 months),False,Medium,https://picsum.photos/seed/house96/400/300
+97,James Johnson,7947 River Rd Apt 28,"Portland, OR",2266,238857.7,6 months,True,Low,https://picsum.photos/seed/house97/400/300
+98,Karen Lee,9690 Hillcrest Dr Unit 13,"Boulder, CO",1657,329154.02,3 months,False,Low,https://picsum.photos/seed/house98/400/300
+99,Daniel Lee,9133 Lincoln Dr,"Seattle, WA",1838,518177.81,3 months,False,Medium,https://picsum.photos/seed/house99/400/300
+100,Nancy Rodriguez,6232 Elm St,"Detroit, MI",799,85974.18,3 years,True,Medium,https://picsum.photos/seed/house100/400/300
+101,Charles Moore,9302 Broadway Apt 8,"Minneapolis, MN",3175,976468.82,1 month,False,Medium,https://picsum.photos/seed/house101/400/300
+102,Barbara Brown,9568 2nd St Unit 5,"Denver, CO",1368,391708.84,Lease (12 months),False,Low,https://picsum.photos/seed/house102/400/300
+103,William Jackson,3805 Lake St Unit 20,"Boston, MA",3082,679210.44,2 years,True,Low,https://picsum.photos/seed/house103/400/300
+104,Matthew Martinez,5667 Highland Dr,"Savannah, GA",3142,570248.31,1 month,True,Medium,https://picsum.photos/seed/house104/400/300
+105,Michael Gonzalez,6978 Church St Apt 22,"Springfield, IL",1778,484051.03,3 months,True,Low,https://picsum.photos/seed/house105/400/300
+106,Anthony Martin,915 Pine Rd Unit 15,"Seattle, WA",2439,563345.1,1 year,False,Low,https://picsum.photos/seed/house106/400/300
+107,Susan Brown,4740 5th Ave,"Buffalo, NY",2068,650457.37,1 year,False,High,https://picsum.photos/seed/house107/400/300
+108,Anthony Jones,4286 Main St,"Denver, CO",2213,291201.05,1 year,False,Medium,https://picsum.photos/seed/house108/400/300
+109,Nancy Lopez,1280 River Rd,"Spokane, WA",768,227918.3,5 years,False,Medium,https://picsum.photos/seed/house109/400/300
+110,Elizabeth Brown,6736 Maple St Unit 6,"Spokane, WA",1932,224931.08,1 year,False,Medium,https://picsum.photos/seed/house110/400/300
+111,Thomas Williams,6584 Main St Apt 22,"Charlotte, NC",1138,130076.03,Lease (12 months),False,Low,https://picsum.photos/seed/house111/400/300
+112,Anthony Lopez,5852 Elm St,"Chicago, IL",1258,161477.6,3 months,True,Featured,https://picsum.photos/seed/house112/400/300
+113,Daniel Thomas,7701 Church St Apt 37,"Minneapolis, MN",3019,495022.62,Month-to-month,False,Medium,https://picsum.photos/seed/house113/400/300
+114,Betty Rodriguez,9789 Oak Ave,"Springfield, IL",2341,450151.78,2 years,True,Medium,https://picsum.photos/seed/house114/400/300
+115,Margaret Williams,9833 2nd St Unit 15,"Atlanta, GA",618,130741.47,1 year,False,Medium,https://picsum.photos/seed/house115/400/300
+116,Thomas Jones,1113 Church St Unit 11,"Houston, TX",2516,596123.67,Month-to-month,False,Medium,https://picsum.photos/seed/house116/400/300
+117,Karen Garcia,6062 Highland Dr Apt 19,"Charlotte, NC",1835,447726.09,3 years,True,Low,https://picsum.photos/seed/house117/400/300
+118,Sarah Perez,6433 Main St,"Miami, FL",783,173244.13,3 years,False,Featured,https://picsum.photos/seed/house118/400/300
+119,Matthew Perez,6521 Elm St Apt 39,"Atlanta, GA",1992,475672.4,6 months,False,Medium,https://picsum.photos/seed/house119/400/300
+120,Lisa Perez,8724 Pine Rd Apt 28,"Austin, TX",1935,325634.23,3 years,False,Low,https://picsum.photos/seed/house120/400/300
+121,John Jones,1364 Main St Unit 17,"Detroit, MI",2606,258900.38,6 months,False,Low,https://picsum.photos/seed/house121/400/300
+122,Jennifer Garcia,2812 Church St Apt 3,"Boston, MA",1422,452305.56,Month-to-month,True,Medium,https://picsum.photos/seed/house122/400/300
+123,Elizabeth Thomas,3278 Highland Dr Apt 37,"Charlotte, NC",1604,436483.65,5 years,True,High,https://picsum.photos/seed/house123/400/300
+124,Betty Martin,2367 Park Ave Apt 4,"Atlanta, GA",870,225969.52,3 months,False,Low,https://picsum.photos/seed/house124/400/300
+125,Jennifer Rodriguez,7461 2nd St,"Salt Lake City, UT",1359,390279.53,1 month,False,Low,https://picsum.photos/seed/house125/400/300
+126,Thomas Lopez,3962 River Rd,"Austin, TX",1755,545461.4,3 years,True,Low,https://picsum.photos/seed/house126/400/300
+127,Elizabeth Thomas,2373 5th Ave,"Las Vegas, NV",774,72356.17,6 months,False,High,https://picsum.photos/seed/house127/400/300
+128,Karen Taylor,7034 Cedar Blvd Apt 19,"Los Angeles, CA",645,101201.53,Month-to-month,True,Low,https://picsum.photos/seed/house128/400/300
+129,Donald Thomas,9876 Hillcrest Dr Unit 17,"Buffalo, NY",1038,157989.56,3 years,True,Medium,https://picsum.photos/seed/house129/400/300
+130,Jennifer Perez,1502 2nd St Unit 3,"Atlanta, GA",2528,689924.04,1 month,False,High,https://picsum.photos/seed/house130/400/300
+131,Mary Lee,6438 Highland Dr Apt 17,"Columbus, OH",726,132573.94,3 months,False,Medium,https://picsum.photos/seed/house131/400/300
+132,David Jones,826 Highland Dr Unit 11,"San Diego, CA",2353,747150.16,6 months,True,Low,https://picsum.photos/seed/house132/400/300
+133,Anthony Anderson,705 Main St,"Las Vegas, NV",621,102168.07,5 years,False,Medium,https://picsum.photos/seed/house133/400/300
+134,Mary Lee,3231 Main St Unit 2,"Miami, FL",1569,188489.68,5 years,False,Medium,https://picsum.photos/seed/house134/400/300
+135,Richard Hernandez,3160 5th Ave Unit 12,"Chicago, IL",788,199274.76,6 months,False,Low,https://picsum.photos/seed/house135/400/300
+136,Patricia Williams,5472 Main St Unit 15,"Portland, OR",2195,285558.78,Month-to-month,True,Medium,https://picsum.photos/seed/house136/400/300
+137,Sandra Lopez,7226 Park Ave Unit 3,"Tucson, AZ",2113,377757.5,6 months,True,Low,https://picsum.photos/seed/house137/400/300
+138,Karen Perez,7279 Oak Ave,"Charlotte, NC",3092,541455.24,1 month,False,Low,https://picsum.photos/seed/house138/400/300
+139,Joseph Lopez,6195 Church St,"Boulder, CO",1953,362554.13,1 year,True,Low,https://picsum.photos/seed/house139/400/300
+140,Jennifer Thomas,8582 River Rd Apt 36,"Charlotte, NC",1516,381215.31,2 years,False,High,https://picsum.photos/seed/house140/400/300
+141,Jessica Miller,2109 Elm St,"Las Vegas, NV",2273,737139.08,3 years,False,Low,https://picsum.photos/seed/house141/400/300
+142,Robert Moore,8982 Main St Unit 6,"Portland, OR",3062,400415.18,1 year,True,Featured,https://picsum.photos/seed/house142/400/300
+143,Betty Jones,3978 5th Ave Unit 12,"Savannah, GA",1961,401964.29,6 months,False,High,https://picsum.photos/seed/house143/400/300
+144,Robert Martinez,6623 5th Ave Apt 34,"Detroit, MI",2804,314370.9,3 months,False,Medium,https://picsum.photos/seed/house144/400/300
+145,Thomas Lopez,2202 Hillcrest Dr,"Seattle, WA",2509,747462.99,3 months,False,Low,https://picsum.photos/seed/house145/400/300
+146,Jennifer Garcia,5386 Sunset Blvd Apt 23,"Minneapolis, MN",773,121826.26,Lease (12 months),False,Low,https://picsum.photos/seed/house146/400/300
+147,Elizabeth Martin,8840 Pine Rd Unit 6,"Savannah, GA",1081,147345.19,3 years,False,Low,https://picsum.photos/seed/house147/400/300
+148,Margaret Smith,1430 Oak Ave Unit 9,"New York, NY",2793,526761.01,Month-to-month,False,Medium,https://picsum.photos/seed/house148/400/300
+149,Daniel Martinez,8012 Sunset Blvd Apt 26,"Houston, TX",695,91131.59,Month-to-month,True,Low,https://picsum.photos/seed/house149/400/300
+150,John Hernandez,5331 Highland Dr Apt 26,"Boulder, CO",2750,314496.1,3 months,False,Medium,https://picsum.photos/seed/house150/400/300
+151,John Brown,929 Main St Apt 25,"Buffalo, NY",1104,319593.33,3 years,True,High,https://picsum.photos/seed/house151/400/300
+152,Jessica Taylor,7748 5th Ave,"Houston, TX",2060,439213.32,1 year,False,Low,https://picsum.photos/seed/house152/400/300
+153,Mary Martinez,8208 5th Ave,"Minneapolis, MN",890,180960.03,3 years,False,Low,https://picsum.photos/seed/house153/400/300
+154,Richard Johnson,9443 Hillcrest Dr Unit 12,"Springfield, IL",751,138331.12,Lease (12 months),False,High,https://picsum.photos/seed/house154/400/300
+155,Karen Perez,2046 Elm St Apt 7,"Columbus, OH",1838,403549.96,6 months,True,Medium,https://picsum.photos/seed/house155/400/300
+156,Richard Taylor,759 Oak Ave Unit 5,"Miami, FL",2390,498556.0,Lease (12 months),True,Low,https://picsum.photos/seed/house156/400/300
+157,Karen Hernandez,2762 River Rd Unit 10,"Miami, FL",2527,714486.87,2 years,False,High,https://picsum.photos/seed/house157/400/300
+158,Barbara Hernandez,1895 Lake St Unit 10,"Minneapolis, MN",3027,295473.82,1 year,False,Low,https://picsum.photos/seed/house158/400/300
+159,Jessica Garcia,8689 River Rd,"Savannah, GA",900,124313.13,5 years,True,Medium,https://picsum.photos/seed/house159/400/300
+160,Michael Wilson,8321 5th Ave Unit 5,"New York, NY",2747,460844.08,Lease (12 months),False,Low,https://picsum.photos/seed/house160/400/300
+161,Jennifer Anderson,8834 Broadway Unit 12,"Charlotte, NC",3084,847894.06,Month-to-month,True,Featured,https://picsum.photos/seed/house161/400/300
+162,William Moore,4990 Sunset Blvd Unit 10,"New York, NY",2452,401454.36,2 years,False,Low,https://picsum.photos/seed/house162/400/300
+163,Nancy Moore,6320 River Rd Apt 23,"Dallas, TX",1628,500808.26,Month-to-month,False,Low,https://picsum.photos/seed/house163/400/300
+164,Jessica Miller,3410 Hillcrest Dr Unit 18,"Chicago, IL",1012,126321.4,1 year,True,Low,https://picsum.photos/seed/house164/400/300
+165,Donald Taylor,3797 Sunset Blvd Apt 4,"Miami, FL",2384,280106.1,1 month,False,Featured,https://picsum.photos/seed/house165/400/300
+166,Jennifer Wilson,7893 5th Ave Apt 13,"Springfield, IL",3095,331039.39,1 year,False,Medium,https://picsum.photos/seed/house166/400/300
+167,Margaret Johnson,2968 Lake St Apt 12,"Columbus, OH",2479,339319.37,2 years,True,Low,https://picsum.photos/seed/house167/400/300
+168,Charles Martin,1858 Broadway Unit 15,"Atlanta, GA",2597,542520.04,Lease (12 months),False,Low,https://picsum.photos/seed/house168/400/300
+169,Betty Brown,5517 Washington Ave Unit 9,"San Diego, CA",507,142342.37,1 year,True,Medium,https://picsum.photos/seed/house169/400/300
+170,Daniel Gonzalez,7107 2nd St Apt 21,"Boston, MA",840,109111.97,3 years,True,Low,https://picsum.photos/seed/house170/400/300
+171,Richard Davis,7419 Park Ave Unit 10,"Nashville, TN",2796,267067.76,1 year,True,Medium,https://picsum.photos/seed/house171/400/300
+172,Joseph Martinez,2716 River Rd Unit 10,"Los Angeles, CA",3066,922877.58,1 year,True,Featured,https://picsum.photos/seed/house172/400/300
+173,Jessica Jones,7554 Highland Dr Apt 27,"Charlotte, NC",2651,739102.48,1 year,False,High,https://picsum.photos/seed/house173/400/300
+174,Margaret Williams,8709 Church St,"Salt Lake City, UT",2760,331205.62,Lease (12 months),True,Medium,https://picsum.photos/seed/house174/400/300
+175,John Garcia,5475 2nd St Unit 4,"New York, NY",2838,587475.35,Month-to-month,True,Medium,https://picsum.photos/seed/house175/400/300
+176,Thomas Wilson,7584 Oak Ave Unit 15,"Columbus, OH",1712,441797.74,1 month,False,Low,https://picsum.photos/seed/house176/400/300
+177,Robert Johnson,7041 Highland Dr,"Salt Lake City, UT",732,236347.49,2 years,False,Low,https://picsum.photos/seed/house177/400/300
+178,John Lee,6987 Highland Dr Apt 25,"Tampa, FL",778,200423.62,Lease (12 months),True,Medium,https://picsum.photos/seed/house178/400/300
+179,Barbara Brown,3024 Hillcrest Dr,"Nashville, TN",1362,394219.81,2 years,False,Medium,https://picsum.photos/seed/house179/400/300
+180,Sarah Wilson,8815 River Rd Apt 15,"Orlando, FL",1085,180186.6,3 months,True,High,https://picsum.photos/seed/house180/400/300
+181,Susan Martin,356 Sunset Blvd,"Phoenix, AZ",587,121544.48,1 month,True,Medium,https://picsum.photos/seed/house181/400/300
+182,Richard Anderson,3939 Hillcrest Dr,"Boulder, CO",1634,248390.52,3 years,False,Medium,https://picsum.photos/seed/house182/400/300
+183,Nancy Hernandez,3981 Main St,"Seattle, WA",1680,263653.84,6 months,False,Medium,https://picsum.photos/seed/house183/400/300
+184,Sarah Thomas,868 Highland Dr Apt 25,"Portland, OR",2155,397301.43,6 months,False,Medium,https://picsum.photos/seed/house184/400/300
+185,Margaret Davis,5027 Elm St Unit 2,"Seattle, WA",2156,468069.21,1 year,False,Low,https://picsum.photos/seed/house185/400/300
+186,Daniel Williams,7469 Highland Dr Unit 18,"Detroit, MI",1230,127823.07,1 month,True,Low,https://picsum.photos/seed/house186/400/300
+187,Anthony Jackson,9256 Lincoln Dr Apt 31,"Springfield, IL",512,69822.96,3 months,False,Featured,https://picsum.photos/seed/house187/400/300
+188,Jessica Davis,3450 River Rd Apt 16,"Charlotte, NC",1609,291354.49,3 years,False,Low,https://picsum.photos/seed/house188/400/300
+189,Thomas Thomas,7735 Cedar Blvd,"Orlando, FL",1731,326838.51,1 year,False,Low,https://picsum.photos/seed/house189/400/300
+190,William Moore,9668 Lake St,"Miami, FL",1392,258556.76,Month-to-month,False,Medium,https://picsum.photos/seed/house190/400/300
+191,Nancy Hernandez,4316 5th Ave,"Nashville, TN",1892,253343.94,Month-to-month,True,High,https://picsum.photos/seed/house191/400/300
+192,Sarah Lee,1062 2nd St Unit 3,"Dallas, TX",476,99839.59,1 year,True,Medium,https://picsum.photos/seed/house192/400/300
+193,James Miller,8385 Church St Unit 2,"Tucson, AZ",3181,982817.01,Month-to-month,True,Low,https://picsum.photos/seed/house193/400/300
+194,Sarah Wilson,294 Maple St Unit 9,"Springfield, IL",520,115822.22,5 years,True,Low,https://picsum.photos/seed/house194/400/300
+195,Patricia Taylor,2539 Sunset Blvd Unit 20,"Chicago, IL",1901,290910.32,3 years,False,Medium,https://picsum.photos/seed/house195/400/300
+196,Linda Thompson,3800 Main St,"Tampa, FL",2003,358548.35,1 month,False,Low,https://picsum.photos/seed/house196/400/300
+197,Jessica Wilson,5527 Cedar Blvd,"New York, NY",2771,548371.84,3 months,False,High,https://picsum.photos/seed/house197/400/300
+198,Donald Moore,9332 Oak Ave,"New York, NY",2854,362924.04,5 years,True,Low,https://picsum.photos/seed/house198/400/300
+199,Charles Davis,9384 River Rd Apt 35,"Charlotte, NC",1023,286852.51,3 months,False,Medium,https://picsum.photos/seed/house199/400/300
+200,Barbara Johnson,1700 Lake St Apt 15,"Phoenix, AZ",2964,920640.13,3 years,True,Medium,https://picsum.photos/seed/house200/400/300
+201,Betty Anderson,8138 Sunset Blvd Apt 23,"Seattle, WA",1210,306272.52,3 months,False,Low,https://picsum.photos/seed/house201/400/300
+202,Linda Thompson,1304 Pine Rd Apt 18,"Portland, OR",3046,385015.74,3 years,True,Low,https://picsum.photos/seed/house202/400/300
+203,Elizabeth Anderson,5996 Park Ave,"San Diego, CA",2215,434108.21,5 years,True,Low,https://picsum.photos/seed/house203/400/300
+204,Barbara Moore,1624 Broadway Apt 25,"Seattle, WA",2038,558144.6,Lease (12 months),True,Medium,https://picsum.photos/seed/house204/400/300
+205,Jennifer Perez,6337 Washington Ave Apt 9,"Chicago, IL",2469,303426.15,2 years,False,Low,https://picsum.photos/seed/house205/400/300
+206,Betty Williams,6016 Park Ave Unit 16,"Phoenix, AZ",1250,241845.01,1 month,False,Low,https://picsum.photos/seed/house206/400/300
+207,Karen Gonzalez,5499 Church St Unit 14,"Phoenix, AZ",1007,167278.04,1 year,False,Low,https://picsum.photos/seed/house207/400/300
+208,Richard Hernandez,4875 5th Ave Apt 37,"Tampa, FL",1598,446773.1,3 months,False,Low,https://picsum.photos/seed/house208/400/300
+209,Sarah Garcia,9112 Maple St Apt 30,"Columbus, OH",1643,458386.26,5 years,False,Medium,https://picsum.photos/seed/house209/400/300
+210,Daniel Martinez,4065 Park Ave Apt 10,"Houston, TX",2289,732168.85,5 years,False,Medium,https://picsum.photos/seed/house210/400/300
+211,Sandra Thompson,6953 Hillcrest Dr Unit 12,"Las Vegas, NV",2649,613494.7,3 months,True,Medium,https://picsum.photos/seed/house211/400/300
+212,Barbara Garcia,825 River Rd,"Austin, TX",853,132745.41,Lease (12 months),False,Medium,https://picsum.photos/seed/house212/400/300
+213,Charles Davis,7403 Highland Dr Unit 15,"Savannah, GA",2499,326507.72,Month-to-month,True,Low,https://picsum.photos/seed/house213/400/300
+214,Sandra Williams,2001 Elm St Apt 23,"Spokane, WA",1297,274149.77,3 months,False,Medium,https://picsum.photos/seed/house214/400/300
+215,Joseph Hernandez,1200 Main St,"Minneapolis, MN",1855,451949.15,6 months,False,Low,https://picsum.photos/seed/house215/400/300
+216,Jennifer Moore,2723 Broadway Apt 36,"Buffalo, NY",2109,494015.58,5 years,False,Low,https://picsum.photos/seed/house216/400/300
+217,Karen Miller,7465 Lake St Unit 1,"New York, NY",1292,208068.14,3 months,False,Low,https://picsum.photos/seed/house217/400/300
+218,Margaret Moore,3163 Highland Dr Apt 21,"Los Angeles, CA",1524,377043.94,3 years,False,Low,https://picsum.photos/seed/house218/400/300
+219,Richard Jackson,1971 Highland Dr Unit 15,"San Diego, CA",1668,509366.75,6 months,False,Low,https://picsum.photos/seed/house219/400/300
+220,Elizabeth Brown,3099 Highland Dr Apt 10,"Seattle, WA",2892,354658.01,6 months,False,Medium,https://picsum.photos/seed/house220/400/300
+221,Matthew Lee,2938 Hillcrest Dr Apt 11,"San Francisco, CA",1216,201441.76,1 month,False,Featured,https://picsum.photos/seed/house221/400/300
+222,Jessica Jones,3296 River Rd Unit 17,"Denver, CO",2125,529208.11,Month-to-month,False,Low,https://picsum.photos/seed/house222/400/300
+223,Charles Smith,3713 Main St,"Atlanta, GA",1632,214165.35,Month-to-month,False,Medium,https://picsum.photos/seed/house223/400/300
+224,Charles Brown,4489 Hillcrest Dr,"Charlotte, NC",2257,501542.96,3 months,False,High,https://picsum.photos/seed/house224/400/300
+225,Anthony Davis,4977 Oak Ave Apt 29,"Minneapolis, MN",806,168813.93,1 year,True,High,https://picsum.photos/seed/house225/400/300
+226,Charles Thompson,5844 Lake St,"Columbus, OH",1296,370245.79,3 years,False,Low,https://picsum.photos/seed/house226/400/300
+227,Sarah Garcia,5402 Main St Apt 19,"Minneapolis, MN",2557,818291.51,3 months,True,Featured,https://picsum.photos/seed/house227/400/300
+228,Betty Wilson,1071 Park Ave,"San Francisco, CA",1769,506523.86,5 years,False,Low,https://picsum.photos/seed/house228/400/300
+229,Daniel Rodriguez,6886 River Rd Unit 3,"Columbus, OH",831,161782.92,3 years,False,Featured,https://picsum.photos/seed/house229/400/300
+230,David Jackson,140 Pine Rd,"Columbus, OH",2639,493274.17,1 year,False,Low,https://picsum.photos/seed/house230/400/300
+231,Mark Martinez,5633 Hillcrest Dr Unit 5,"Minneapolis, MN",2437,674065.17,1 month,True,Low,https://picsum.photos/seed/house231/400/300
+232,Betty Anderson,366 Cedar Blvd Apt 11,"Austin, TX",2202,309417.92,6 months,False,Low,https://picsum.photos/seed/house232/400/300
+233,Margaret Rodriguez,1629 Highland Dr Apt 17,"Boston, MA",3107,400842.71,2 years,False,Medium,https://picsum.photos/seed/house233/400/300
+234,Linda Wilson,1594 Cedar Blvd Apt 1,"Houston, TX",993,230349.35,Month-to-month,True,Low,https://picsum.photos/seed/house234/400/300
+235,David Brown,7019 Elm St,"Tampa, FL",815,207380.14,3 years,False,High,https://picsum.photos/seed/house235/400/300
+236,John Gonzalez,2281 Elm St Unit 17,"Austin, TX",2949,710101.2,1 year,False,Medium,https://picsum.photos/seed/house236/400/300
+237,Sandra Wilson,7348 Lincoln Dr,"Charlotte, NC",954,217904.95,5 years,False,High,https://picsum.photos/seed/house237/400/300
+238,Linda Rodriguez,1480 Sunset Blvd Unit 20,"Nashville, TN",2938,470777.97,1 month,False,High,https://picsum.photos/seed/house238/400/300
+239,Michael Taylor,8448 Lincoln Dr Unit 10,"Dallas, TX",1430,288723.44,Month-to-month,False,Medium,https://picsum.photos/seed/house239/400/300
+240,Thomas Smith,6016 Broadway Unit 13,"Seattle, WA",1946,418133.52,Month-to-month,True,Low,https://picsum.photos/seed/house240/400/300
+241,Robert Smith,4395 Lincoln Dr Apt 3,"Boulder, CO",1623,385730.13,5 years,False,Medium,https://picsum.photos/seed/house241/400/300
+242,Robert Lee,8891 Hillcrest Dr Apt 40,"Houston, TX",1719,199371.25,6 months,False,Low,https://picsum.photos/seed/house242/400/300
+243,Charles Lee,1183 Main St,"Buffalo, NY",803,240359.23,1 month,False,Medium,https://picsum.photos/seed/house243/400/300
+244,Nancy White,2977 Cedar Blvd Unit 5,"Austin, TX",1121,230814.25,Lease (12 months),False,Low,https://picsum.photos/seed/house244/400/300
+245,Barbara Jones,4503 Cedar Blvd Apt 2,"Chicago, IL",2595,280918.46,3 months,False,Medium,https://picsum.photos/seed/house245/400/300
+246,Barbara Johnson,8285 Washington Ave Apt 24,"Charlotte, NC",871,266021.2,3 months,True,Medium,https://picsum.photos/seed/house246/400/300
+247,James Johnson,301 Sunset Blvd Apt 3,"Tampa, FL",1064,153762.16,1 month,False,High,https://picsum.photos/seed/house247/400/300
+248,Matthew White,6970 Sunset Blvd Apt 21,"Salt Lake City, UT",1760,264762.96,3 years,True,Medium,https://picsum.photos/seed/house248/400/300
+249,Donald Johnson,3038 Sunset Blvd Apt 34,"Houston, TX",2355,691506.91,2 years,False,Low,https://picsum.photos/seed/house249/400/300
+250,Joseph Smith,6144 Lincoln Dr Apt 19,"Nashville, TN",3000,439748.43,Month-to-month,True,Medium,https://picsum.photos/seed/house250/400/300
+251,Sarah Davis,2566 Maple St,"Atlanta, GA",1868,450215.27,1 month,False,Low,https://picsum.photos/seed/house251/400/300
+252,Nancy Gonzalez,5138 Cedar Blvd,"Seattle, WA",2465,781245.05,6 months,False,Low,https://picsum.photos/seed/house252/400/300
+253,Mary Davis,8615 Lake St Unit 15,"Houston, TX",2828,314357.38,5 years,True,Medium,https://picsum.photos/seed/house253/400/300
+254,Mary Wilson,2241 Sunset Blvd Apt 19,"Salt Lake City, UT",2059,526859.68,3 years,False,Low,https://picsum.photos/seed/house254/400/300
+255,Robert Miller,2330 Cedar Blvd,"Spokane, WA",2358,379947.55,3 years,True,Medium,https://picsum.photos/seed/house255/400/300
+256,Joseph Rodriguez,2064 Pine Rd Unit 10,"Portland, OR",2921,301703.27,3 years,True,Low,https://picsum.photos/seed/house256/400/300
+257,Linda Lopez,6592 2nd St Apt 4,"Detroit, MI",1162,115974.84,Month-to-month,False,Medium,https://picsum.photos/seed/house257/400/300
+258,Linda Brown,7670 Cedar Blvd,"Dallas, TX",1360,174761.19,3 years,False,Medium,https://picsum.photos/seed/house258/400/300
+259,Daniel Williams,9640 Park Ave,"New York, NY",3095,591782.42,3 years,True,Low,https://picsum.photos/seed/house259/400/300
+260,Joseph Johnson,2852 Lake St,"Tampa, FL",2197,284345.53,6 months,False,Low,https://picsum.photos/seed/house260/400/300
+261,Donald Jones,667 Sunset Blvd Apt 19,"Las Vegas, NV",2705,538233.52,5 years,True,Medium,https://picsum.photos/seed/house261/400/300
+262,Daniel Taylor,4182 Hillcrest Dr Unit 13,"Orlando, FL",2414,524280.77,Lease (12 months),False,Low,https://picsum.photos/seed/house262/400/300
+263,Jennifer Smith,5324 Sunset Blvd,"Columbus, OH",2382,514771.62,1 year,True,Low,https://picsum.photos/seed/house263/400/300
+264,Nancy Davis,4466 Hillcrest Dr Unit 8,"Minneapolis, MN",2040,361858.78,6 months,True,Low,https://picsum.photos/seed/house264/400/300
+265,David White,5978 Maple St Unit 19,"San Francisco, CA",2756,860925.77,Month-to-month,False,Low,https://picsum.photos/seed/house265/400/300
+266,Jessica Johnson,1578 Oak Ave,"Austin, TX",2606,522671.72,1 year,True,Low,https://picsum.photos/seed/house266/400/300
+267,Jennifer Hernandez,1075 Maple St Unit 19,"Salt Lake City, UT",1030,288077.04,3 years,True,Low,https://picsum.photos/seed/house267/400/300
+268,Nancy Gonzalez,9701 Cedar Blvd Apt 22,"San Francisco, CA",1095,286730.23,Month-to-month,False,Low,https://picsum.photos/seed/house268/400/300
+269,Matthew Moore,5946 Sunset Blvd Apt 38,"Springfield, IL",1656,207121.06,5 years,False,Low,https://picsum.photos/seed/house269/400/300
+270,Karen Hernandez,3719 Cedar Blvd Apt 32,"Nashville, TN",768,125807.19,6 months,False,High,https://picsum.photos/seed/house270/400/300
+271,Robert Thompson,5600 Church St,"Buffalo, NY",727,134774.36,1 month,True,Low,https://picsum.photos/seed/house271/400/300
+272,Lisa Wilson,2825 Lake St Apt 32,"Atlanta, GA",1987,229773.65,1 year,True,Medium,https://picsum.photos/seed/house272/400/300
+273,Betty Johnson,4931 Maple St,"Houston, TX",1850,241388.92,3 months,False,High,https://picsum.photos/seed/house273/400/300
+274,Robert Hernandez,9832 5th Ave Unit 14,"San Diego, CA",2937,863509.31,3 months,False,Low,https://picsum.photos/seed/house274/400/300
+275,Michael Wilson,9178 Hillcrest Dr Apt 17,"Buffalo, NY",842,91827.8,Month-to-month,True,Low,https://picsum.photos/seed/house275/400/300
+276,James Wilson,1535 Main St,"Los Angeles, CA",555,84131.36,3 months,False,High,https://picsum.photos/seed/house276/400/300
+277,Elizabeth Gonzalez,7815 5th Ave Unit 3,"Atlanta, GA",2037,282658.55,3 years,True,Medium,https://picsum.photos/seed/house277/400/300
+278,William Anderson,7719 Park Ave Unit 9,"Dallas, TX",1069,289511.42,3 months,False,Low,https://picsum.photos/seed/house278/400/300
+279,Sarah Wilson,9762 Sunset Blvd Apt 36,"Detroit, MI",2590,488189.42,Month-to-month,False,High,https://picsum.photos/seed/house279/400/300
+280,Jessica Martinez,1393 River Rd Unit 17,"Las Vegas, NV",2566,711900.48,6 months,True,High,https://picsum.photos/seed/house280/400/300
+281,Joseph Garcia,2838 Lincoln Dr,"Seattle, WA",770,248032.24,6 months,False,Low,https://picsum.photos/seed/house281/400/300
+282,Sandra White,1197 Pine Rd Apt 25,"Atlanta, GA",1785,517730.82,1 month,False,Medium,https://picsum.photos/seed/house282/400/300
+283,Thomas Wilson,1943 Lake St Unit 5,"Savannah, GA",2836,763707.4,3 months,False,High,https://picsum.photos/seed/house283/400/300
+284,Betty Martinez,8875 Highland Dr Apt 27,"Tucson, AZ",2438,544637.24,6 months,False,Medium,https://picsum.photos/seed/house284/400/300
+285,Karen Martin,6681 Oak Ave Unit 11,"Buffalo, NY",651,183667.82,3 years,True,Low,https://picsum.photos/seed/house285/400/300
+286,Betty Martinez,5194 Park Ave,"San Francisco, CA",1680,531500.6,3 years,False,Medium,https://picsum.photos/seed/house286/400/300
+287,Karen Lee,1562 Lincoln Dr Apt 29,"Nashville, TN",2434,656583.32,1 month,False,High,https://picsum.photos/seed/house287/400/300
+288,Robert Martinez,8403 River Rd Unit 17,"Austin, TX",1161,167622.22,1 month,True,Low,https://picsum.photos/seed/house288/400/300
+289,Mary Lopez,3362 Park Ave Unit 15,"Tampa, FL",3052,931264.21,1 year,False,Medium,https://picsum.photos/seed/house289/400/300
+290,Joseph Garcia,7875 Hillcrest Dr,"Detroit, MI",1509,404528.95,2 years,True,Low,https://picsum.photos/seed/house290/400/300
+291,Jennifer Jackson,3611 Sunset Blvd Apt 15,"Tucson, AZ",2127,454824.91,1 month,False,High,https://picsum.photos/seed/house291/400/300
+292,Daniel Garcia,9949 Maple St Unit 9,"Columbus, OH",1701,441122.83,2 years,False,High,https://picsum.photos/seed/house292/400/300
+293,Margaret Lopez,7620 Park Ave Apt 14,"Boston, MA",2582,724848.28,3 months,True,Medium,https://picsum.photos/seed/house293/400/300
+294,Nancy Lopez,9298 Main St Apt 20,"Houston, TX",1827,587561.06,2 years,False,Medium,https://picsum.photos/seed/house294/400/300
+295,Donald Lee,4995 Lincoln Dr,"Las Vegas, NV",682,198767.0,5 years,False,Low,https://picsum.photos/seed/house295/400/300
+296,John White,517 5th Ave Apt 19,"Tampa, FL",2040,535935.17,1 year,False,Medium,https://picsum.photos/seed/house296/400/300
+297,Linda Perez,8859 5th Ave Apt 23,"Minneapolis, MN",1146,337245.44,6 months,False,Low,https://picsum.photos/seed/house297/400/300
+298,John White,4337 Hillcrest Dr Unit 11,"Houston, TX",1360,243416.84,2 years,False,High,https://picsum.photos/seed/house298/400/300
+299,David Lopez,4369 Main St Apt 30,"Dallas, TX",3048,697315.17,3 months,False,High,https://picsum.photos/seed/house299/400/300
+300,Thomas Brown,6353 2nd St,"Minneapolis, MN",1067,128746.74,5 years,False,High,https://picsum.photos/seed/house300/400/300
+301,Joseph Jones,5283 Washington Ave Apt 6,"Tucson, AZ",1174,186448.34,Month-to-month,False,Low,https://picsum.photos/seed/house301/400/300
+302,Anthony Garcia,9541 Washington Ave,"Phoenix, AZ",2226,527740.82,Month-to-month,False,Low,https://picsum.photos/seed/house302/400/300
+303,Sarah Miller,6212 Maple St,"Austin, TX",466,109084.77,3 years,False,Low,https://picsum.photos/seed/house303/400/300
+304,Richard Taylor,9744 Main St,"Springfield, IL",1641,325176.04,Lease (12 months),False,Medium,https://picsum.photos/seed/house304/400/300
+305,Nancy Jones,5715 5th Ave,"Salt Lake City, UT",2102,197912.47,6 months,True,Medium,https://picsum.photos/seed/house305/400/300
+306,Charles Taylor,2868 Cedar Blvd Apt 24,"Las Vegas, NV",3072,462905.07,1 month,False,Featured,https://picsum.photos/seed/house306/400/300
+307,Nancy Brown,423 Oak Ave Apt 8,"Tampa, FL",956,210864.38,6 months,True,Medium,https://picsum.photos/seed/house307/400/300
+308,Daniel Smith,5033 Lake St Apt 7,"Phoenix, AZ",2930,739296.0,3 months,False,Medium,https://picsum.photos/seed/house308/400/300
+309,Patricia Martinez,1967 Cedar Blvd Unit 7,"New York, NY",1527,443923.1,3 years,False,Medium,https://picsum.photos/seed/house309/400/300
+310,Jennifer Johnson,9080 5th Ave Apt 14,"Buffalo, NY",461,39621.88,3 months,False,Medium,https://picsum.photos/seed/house310/400/300
+311,John Williams,8483 Pine Rd Unit 9,"Buffalo, NY",2320,737272.58,Month-to-month,True,Low,https://picsum.photos/seed/house311/400/300
+312,Jennifer Johnson,4860 Highland Dr Unit 14,"Los Angeles, CA",839,252580.76,1 month,True,Medium,https://picsum.photos/seed/house312/400/300
+313,Jennifer Hernandez,5957 Church St Unit 9,"Houston, TX",1976,546882.36,5 years,False,Featured,https://picsum.photos/seed/house313/400/300
+314,William Gonzalez,7935 Lake St,"Portland, OR",690,229762.02,3 months,False,High,https://picsum.photos/seed/house314/400/300
+315,Jessica Jackson,7278 Washington Ave Apt 40,"Phoenix, AZ",568,176405.9,6 months,False,High,https://picsum.photos/seed/house315/400/300
+316,Patricia Wilson,7320 Oak Ave Unit 9,"Miami, FL",500,134583.92,1 year,False,High,https://picsum.photos/seed/house316/400/300
+317,Thomas Taylor,1660 Lake St Apt 16,"Boston, MA",3077,561091.69,Lease (12 months),False,Low,https://picsum.photos/seed/house317/400/300
+318,Daniel Garcia,8383 5th Ave,"Charlotte, NC",2463,404923.75,2 years,True,Medium,https://picsum.photos/seed/house318/400/300
+319,Sarah Lee,6303 River Rd Apt 16,"Spokane, WA",2797,552128.09,Month-to-month,False,Low,https://picsum.photos/seed/house319/400/300
+320,Jessica White,391 Cedar Blvd,"Atlanta, GA",2699,239833.27,2 years,False,Medium,https://picsum.photos/seed/house320/400/300
+321,Daniel Perez,7574 Broadway,"Minneapolis, MN",2311,394791.74,Month-to-month,False,Medium,https://picsum.photos/seed/house321/400/300
+322,Matthew Anderson,1968 Cedar Blvd Apt 15,"Orlando, FL",3045,950330.8,Lease (12 months),False,Medium,https://picsum.photos/seed/house322/400/300
+323,Mary Garcia,8167 Elm St Apt 27,"Phoenix, AZ",1252,180289.32,5 years,True,Medium,https://picsum.photos/seed/house323/400/300
+324,Betty Miller,5636 Cedar Blvd Unit 2,"Detroit, MI",2861,351407.01,Month-to-month,False,Medium,https://picsum.photos/seed/house324/400/300
+325,Thomas Jones,8272 Maple St Unit 2,"Salt Lake City, UT",2222,633324.0,Lease (12 months),True,Medium,https://picsum.photos/seed/house325/400/300
+326,Jennifer White,2203 Cedar Blvd Unit 20,"Las Vegas, NV",1768,366804.59,1 year,False,Low,https://picsum.photos/seed/house326/400/300
+327,David Martinez,7519 Elm St Unit 14,"Portland, OR",2548,413524.94,3 years,False,Medium,https://picsum.photos/seed/house327/400/300
+328,Sarah Lee,3660 Lincoln Dr Unit 20,"Springfield, IL",1864,560346.77,6 months,False,Medium,https://picsum.photos/seed/house328/400/300
+329,Daniel Hernandez,1990 Highland Dr Unit 16,"Savannah, GA",3182,814575.95,Lease (12 months),False,High,https://picsum.photos/seed/house329/400/300
+330,Susan Smith,8664 Cedar Blvd,"Dallas, TX",3195,329485.58,6 months,False,Medium,https://picsum.photos/seed/house330/400/300
+331,John Johnson,4935 Lincoln Dr Apt 35,"Detroit, MI",2303,273913.34,Lease (12 months),True,Medium,https://picsum.photos/seed/house331/400/300
+332,Sarah Gonzalez,3992 2nd St Apt 19,"Tampa, FL",2156,682965.83,3 years,False,Low,https://picsum.photos/seed/house332/400/300
+333,Lisa Rodriguez,3427 Church St Unit 12,"Atlanta, GA",2921,404382.11,1 year,False,Medium,https://picsum.photos/seed/house333/400/300
+334,Nancy Williams,3163 Washington Ave Apt 33,"Dallas, TX",2205,340286.57,6 months,False,High,https://picsum.photos/seed/house334/400/300
+335,James Hernandez,7740 Elm St Apt 3,"Phoenix, AZ",658,183813.18,2 years,False,High,https://picsum.photos/seed/house335/400/300
+336,Sarah Lopez,1294 Broadway,"Boulder, CO",729,195629.33,Lease (12 months),False,Medium,https://picsum.photos/seed/house336/400/300
+337,Barbara Davis,3595 Broadway Apt 22,"New York, NY",2982,647160.59,1 month,True,Medium,https://picsum.photos/seed/house337/400/300
+338,Joseph Davis,4094 Oak Ave,"Tampa, FL",1500,322038.45,Lease (12 months),False,Medium,https://picsum.photos/seed/house338/400/300
+339,Thomas Anderson,8075 Oak Ave Apt 19,"Boulder, CO",787,240813.72,Lease (12 months),False,Low,https://picsum.photos/seed/house339/400/300
+340,Robert Miller,3592 Lake St Unit 7,"Detroit, MI",2232,546593.66,6 months,True,Medium,https://picsum.photos/seed/house340/400/300
+341,David Johnson,1533 Pine Rd Apt 4,"Atlanta, GA",738,163567.01,2 years,False,Low,https://picsum.photos/seed/house341/400/300
+342,Daniel Gonzalez,7194 Broadway Unit 13,"Los Angeles, CA",2640,250587.54,3 months,False,Medium,https://picsum.photos/seed/house342/400/300
+343,Matthew Williams,5960 2nd St Unit 10,"Springfield, IL",2934,332740.94,Month-to-month,False,Low,https://picsum.photos/seed/house343/400/300
+344,Nancy Smith,7865 Washington Ave,"Nashville, TN",2051,572439.87,2 years,False,Low,https://picsum.photos/seed/house344/400/300
+345,Nancy White,6213 Maple St,"Los Angeles, CA",621,63541.51,Lease (12 months),False,High,https://picsum.photos/seed/house345/400/300
+346,Elizabeth Miller,5733 Lincoln Dr,"San Diego, CA",1203,181054.79,1 year,True,Low,https://picsum.photos/seed/house346/400/300
+347,Betty Jackson,991 Hillcrest Dr,"Springfield, IL",725,106000.51,Month-to-month,False,Low,https://picsum.photos/seed/house347/400/300
+348,Nancy Lee,3942 Cedar Blvd,"Las Vegas, NV",1242,206571.65,2 years,False,Medium,https://picsum.photos/seed/house348/400/300
+349,Charles Jackson,6071 Broadway,"Miami, FL",1458,403927.24,5 years,False,High,https://picsum.photos/seed/house349/400/300
+350,John Perez,5532 5th Ave Apt 30,"Charlotte, NC",1701,340784.47,3 months,False,High,https://picsum.photos/seed/house350/400/300
+351,John Moore,3318 Park Ave,"Minneapolis, MN",2527,605790.48,5 years,False,Low,https://picsum.photos/seed/house351/400/300
+352,Mary Moore,4369 Hillcrest Dr Unit 16,"Charlotte, NC",1058,183704.44,2 years,True,Medium,https://picsum.photos/seed/house352/400/300
+353,Thomas Williams,6600 Highland Dr Unit 1,"Buffalo, NY",2965,743558.16,6 months,False,Low,https://picsum.photos/seed/house353/400/300
+354,Charles Jackson,2495 5th Ave,"Charlotte, NC",2447,350948.31,1 year,True,Medium,https://picsum.photos/seed/house354/400/300
+355,Thomas Lopez,6458 5th Ave,"Tucson, AZ",1777,216487.92,2 years,False,Low,https://picsum.photos/seed/house355/400/300
+356,Sarah Jackson,2948 River Rd Unit 12,"Tucson, AZ",768,162909.91,1 year,False,Medium,https://picsum.photos/seed/house356/400/300
+357,Mark Lopez,8076 5th Ave Unit 1,"Las Vegas, NV",1019,194408.87,Lease (12 months),False,Low,https://picsum.photos/seed/house357/400/300
+358,John Garcia,2678 Highland Dr Unit 4,"Buffalo, NY",2148,603476.84,Month-to-month,False,Medium,https://picsum.photos/seed/house358/400/300
+359,Michael Jackson,2741 Lake St,"San Francisco, CA",2799,630940.13,Lease (12 months),True,High,https://picsum.photos/seed/house359/400/300
+360,John Johnson,2825 Park Ave Apt 12,"Phoenix, AZ",2758,665259.77,2 years,True,Low,https://picsum.photos/seed/house360/400/300
+361,Karen Thomas,7991 Washington Ave Unit 14,"San Francisco, CA",2836,789042.88,Lease (12 months),False,Low,https://picsum.photos/seed/house361/400/300
+362,Nancy Hernandez,7529 Pine Rd Apt 15,"San Francisco, CA",894,89319.83,Lease (12 months),False,Medium,https://picsum.photos/seed/house362/400/300
+363,John Martin,1677 Washington Ave Unit 20,"Dallas, TX",2626,537691.1,Month-to-month,False,Low,https://picsum.photos/seed/house363/400/300
+364,Karen Moore,119 Lake St Apt 34,"Minneapolis, MN",627,160616.19,Month-to-month,False,Low,https://picsum.photos/seed/house364/400/300
+365,Betty White,9539 Cedar Blvd Apt 28,"Denver, CO",1402,416322.48,Lease (12 months),False,Low,https://picsum.photos/seed/house365/400/300
+366,James Thompson,216 2nd St,"Tampa, FL",3131,440803.91,5 years,False,Low,https://picsum.photos/seed/house366/400/300
+367,Susan Lee,9690 Park Ave Apt 17,"Savannah, GA",1947,464072.26,5 years,True,Medium,https://picsum.photos/seed/house367/400/300
+368,Betty Moore,8004 Washington Ave Unit 18,"Denver, CO",1489,479097.45,5 years,False,Low,https://picsum.photos/seed/house368/400/300
+369,Margaret Perez,2051 Sunset Blvd,"New York, NY",2532,462919.41,Lease (12 months),False,Medium,https://picsum.photos/seed/house369/400/300
+370,Matthew Johnson,2733 River Rd,"Denver, CO",2908,549199.45,1 year,False,Low,https://picsum.photos/seed/house370/400/300
+371,Mary White,6396 River Rd Apt 40,"Portland, OR",2897,309490.36,6 months,False,Medium,https://picsum.photos/seed/house371/400/300
+372,James Miller,8589 Main St Unit 2,"Boulder, CO",2562,649452.29,1 month,False,Low,https://picsum.photos/seed/house372/400/300
+373,James Garcia,1522 Park Ave Unit 12,"Tampa, FL",2110,479679.56,3 months,True,Medium,https://picsum.photos/seed/house373/400/300
+374,Lisa Moore,9650 Highland Dr,"Phoenix, AZ",1246,245543.97,1 month,False,Low,https://picsum.photos/seed/house374/400/300
+375,Thomas Brown,9252 Pine Rd Apt 33,"Los Angeles, CA",2552,803752.38,2 years,False,Medium,https://picsum.photos/seed/house375/400/300
+376,Richard Jackson,8023 Sunset Blvd Unit 15,"Spokane, WA",2853,827060.46,2 years,True,Low,https://picsum.photos/seed/house376/400/300
+377,Betty Davis,3867 Broadway Unit 12,"Atlanta, GA",489,123098.06,2 years,True,Low,https://picsum.photos/seed/house377/400/300
+378,Lisa Hernandez,1345 Hillcrest Dr Apt 12,"Orlando, FL",1345,398088.25,1 year,False,Medium,https://picsum.photos/seed/house378/400/300
+379,Linda White,4065 Park Ave,"Detroit, MI",1472,417750.03,3 months,True,High,https://picsum.photos/seed/house379/400/300
+380,Nancy Perez,8171 Maple St Apt 35,"Orlando, FL",2992,499299.72,2 years,False,Low,https://picsum.photos/seed/house380/400/300
+381,Anthony Taylor,4691 River Rd,"Dallas, TX",2603,717351.31,Lease (12 months),True,Medium,https://picsum.photos/seed/house381/400/300
+382,Richard Perez,2963 Church St Apt 8,"Miami, FL",484,44090.85,3 months,False,Low,https://picsum.photos/seed/house382/400/300
+383,Margaret Rodriguez,3166 Hillcrest Dr Apt 17,"Denver, CO",2961,498827.26,5 years,True,Medium,https://picsum.photos/seed/house383/400/300
+384,Anthony Lopez,6081 River Rd,"Savannah, GA",987,319854.88,3 months,False,Low,https://picsum.photos/seed/house384/400/300
+385,Linda Moore,7181 River Rd Unit 5,"San Francisco, CA",2387,655682.13,Month-to-month,True,Featured,https://picsum.photos/seed/house385/400/300
+386,Margaret Lee,8570 Hillcrest Dr Apt 21,"Chicago, IL",2752,787031.6,3 months,False,Low,https://picsum.photos/seed/house386/400/300
+387,Michael Rodriguez,7907 Cedar Blvd Apt 29,"Orlando, FL",1925,434981.87,2 years,False,Low,https://picsum.photos/seed/house387/400/300
+388,Patricia Lopez,3359 Hillcrest Dr Apt 12,"Miami, FL",2540,523124.37,3 months,False,Medium,https://picsum.photos/seed/house388/400/300
+389,Joseph Lee,2473 Washington Ave Unit 14,"Phoenix, AZ",2791,524167.21,3 months,True,Low,https://picsum.photos/seed/house389/400/300
+390,David Hernandez,4873 Park Ave Apt 39,"Las Vegas, NV",2272,626361.19,Lease (12 months),False,Medium,https://picsum.photos/seed/house390/400/300
+391,Jennifer Smith,2148 Sunset Blvd,"San Diego, CA",2076,232300.74,Month-to-month,False,Low,https://picsum.photos/seed/house391/400/300
+392,Anthony Gonzalez,8684 Pine Rd Unit 9,"San Francisco, CA",795,203995.58,2 years,True,Low,https://picsum.photos/seed/house392/400/300
+393,Elizabeth Anderson,2171 Elm St,"Dallas, TX",3167,558262.18,Month-to-month,False,Featured,https://picsum.photos/seed/house393/400/300
+394,Sarah Rodriguez,9087 Church St,"Savannah, GA",2897,574907.68,5 years,False,Medium,https://picsum.photos/seed/house394/400/300
+395,Sarah Martinez,5788 5th Ave,"Spokane, WA",1711,298132.85,2 years,True,Low,https://picsum.photos/seed/house395/400/300
+396,Mark Jones,5734 Main St,"Portland, OR",2464,762961.1,1 month,False,High,https://picsum.photos/seed/house396/400/300
+397,Karen Davis,218 Hillcrest Dr Apt 24,"Las Vegas, NV",2746,523205.56,5 years,False,Low,https://picsum.photos/seed/house397/400/300
+398,Robert Wilson,4024 2nd St Apt 40,"Tucson, AZ",2628,728654.38,3 months,True,Low,https://picsum.photos/seed/house398/400/300
+399,Patricia Lee,7560 Church St Apt 18,"New York, NY",1763,162527.28,Lease (12 months),True,Low,https://picsum.photos/seed/house399/400/300
+400,Patricia Martinez,4510 Elm St,"Houston, TX",1067,98987.39,5 years,False,High,https://picsum.photos/seed/house400/400/300
+401,Jessica Lopez,7697 Oak Ave,"Dallas, TX",1541,410032.36,Month-to-month,True,Low,https://picsum.photos/seed/house401/400/300
+402,Mark Rodriguez,6351 Maple St Apt 8,"Charlotte, NC",2264,347353.0,1 year,False,Medium,https://picsum.photos/seed/house402/400/300
+403,Patricia Taylor,3515 5th Ave Apt 25,"San Diego, CA",3027,789330.43,Lease (12 months),False,Low,https://picsum.photos/seed/house403/400/300
+404,Jessica Lee,4995 Lincoln Dr Unit 2,"New York, NY",912,135259.43,1 month,True,High,https://picsum.photos/seed/house404/400/300
+405,Charles Brown,6584 Sunset Blvd Unit 2,"Columbus, OH",2396,593106.91,3 months,True,Low,https://picsum.photos/seed/house405/400/300
+406,Robert Perez,5644 Oak Ave Unit 12,"San Francisco, CA",2646,717327.08,1 year,False,Featured,https://picsum.photos/seed/house406/400/300
+407,Betty Lee,5790 Church St Unit 1,"Tampa, FL",1917,491938.76,1 month,False,Medium,https://picsum.photos/seed/house407/400/300
+408,Sarah Martinez,8992 5th Ave,"Atlanta, GA",1874,312540.83,Lease (12 months),True,Low,https://picsum.photos/seed/house408/400/300
+409,John Anderson,4944 Park Ave Apt 35,"Austin, TX",3063,641785.32,1 month,False,High,https://picsum.photos/seed/house409/400/300
+410,Anthony Martin,4012 Broadway Apt 5,"New York, NY",2596,651894.18,6 months,False,Low,https://picsum.photos/seed/house410/400/300
+411,Susan Lee,5376 Cedar Blvd Unit 17,"Houston, TX",629,175032.91,1 month,True,Low,https://picsum.photos/seed/house411/400/300
+412,Michael Brown,621 River Rd Unit 17,"Portland, OR",2867,429125.51,3 months,True,High,https://picsum.photos/seed/house412/400/300
+413,Michael Lee,8151 Pine Rd Apt 30,"Atlanta, GA",2153,611714.3,1 month,False,Low,https://picsum.photos/seed/house413/400/300
+414,Mary White,1253 Main St Unit 7,"Los Angeles, CA",864,227499.39,1 year,True,Medium,https://picsum.photos/seed/house414/400/300
+415,Linda Jackson,3031 Hillcrest Dr Unit 14,"Los Angeles, CA",3065,690788.4,5 years,True,Low,https://picsum.photos/seed/house415/400/300
+416,Jennifer Moore,6679 2nd St Unit 6,"Phoenix, AZ",2264,702912.22,Lease (12 months),False,High,https://picsum.photos/seed/house416/400/300
+417,Susan Lee,7154 Broadway Unit 8,"Atlanta, GA",1326,239731.51,2 years,False,Featured,https://picsum.photos/seed/house417/400/300
+418,Joseph Gonzalez,103 Oak Ave,"Boulder, CO",1003,320477.05,2 years,True,Low,https://picsum.photos/seed/house418/400/300
+419,David Smith,4621 Hillcrest Dr Unit 18,"Salt Lake City, UT",2791,346260.79,3 years,True,Low,https://picsum.photos/seed/house419/400/300
+420,Barbara Jackson,4193 Sunset Blvd,"Savannah, GA",2087,460335.61,3 months,False,Low,https://picsum.photos/seed/house420/400/300
+421,Jessica Garcia,8099 Cedar Blvd,"Nashville, TN",2810,510095.69,3 years,False,High,https://picsum.photos/seed/house421/400/300
+422,Susan Wilson,2074 Sunset Blvd Unit 1,"Charlotte, NC",3039,541952.58,1 month,False,Medium,https://picsum.photos/seed/house422/400/300
+423,John Hernandez,8331 Sunset Blvd Unit 2,"Nashville, TN",2059,655222.33,Lease (12 months),True,Low,https://picsum.photos/seed/house423/400/300
+424,Elizabeth Gonzalez,2525 Elm St Apt 22,"Savannah, GA",651,140916.02,5 years,False,Medium,https://picsum.photos/seed/house424/400/300
+425,Matthew Jones,2309 5th Ave Apt 36,"Tampa, FL",3121,697231.66,Lease (12 months),True,Low,https://picsum.photos/seed/house425/400/300
+426,William Wilson,5398 Pine Rd Apt 8,"Orlando, FL",1876,252923.01,1 month,False,Low,https://picsum.photos/seed/house426/400/300
+427,Barbara Martin,7345 Elm St,"New York, NY",1981,258934.01,3 months,True,Medium,https://picsum.photos/seed/house427/400/300
+428,Linda Martin,2519 Main St Unit 11,"Columbus, OH",905,149384.13,3 years,True,Medium,https://picsum.photos/seed/house428/400/300
+429,Michael Miller,9052 2nd St Apt 17,"Phoenix, AZ",1028,265227.83,5 years,False,High,https://picsum.photos/seed/house429/400/300
+430,Thomas Johnson,4285 Washington Ave,"Columbus, OH",2981,458587.92,1 month,True,Low,https://picsum.photos/seed/house430/400/300
+431,William Perez,6001 Cedar Blvd Unit 10,"Tampa, FL",1396,445402.7,3 months,False,Medium,https://picsum.photos/seed/house431/400/300
+432,Karen Moore,1542 Washington Ave Apt 13,"Atlanta, GA",538,66784.36,2 years,False,Medium,https://picsum.photos/seed/house432/400/300
+433,Lisa Garcia,401 Highland Dr Unit 12,"Springfield, IL",1417,466706.3,2 years,True,Medium,https://picsum.photos/seed/house433/400/300
+434,Donald Gonzalez,582 Hillcrest Dr,"Miami, FL",2059,493169.07,5 years,False,Featured,https://picsum.photos/seed/house434/400/300
+435,Karen Lee,3826 Lake St,"Seattle, WA",1729,518970.17,Lease (12 months),True,Low,https://picsum.photos/seed/house435/400/300
+436,John Jackson,8969 Lincoln Dr Unit 10,"Portland, OR",2595,780023.79,6 months,False,High,https://picsum.photos/seed/house436/400/300
+437,Sandra Garcia,5301 Pine Rd Unit 18,"Los Angeles, CA",1204,208901.89,1 month,False,High,https://picsum.photos/seed/house437/400/300
+438,Susan Wilson,5070 Church St,"Los Angeles, CA",988,141150.74,2 years,False,Medium,https://picsum.photos/seed/house438/400/300
+439,Linda Martin,3904 Sunset Blvd,"Portland, OR",2402,302180.26,Month-to-month,False,Medium,https://picsum.photos/seed/house439/400/300
+440,Jennifer Gonzalez,8151 5th Ave,"Buffalo, NY",582,121450.05,2 years,False,Low,https://picsum.photos/seed/house440/400/300
+441,Nancy Miller,3451 Pine Rd Unit 15,"Denver, CO",1780,527809.38,5 years,False,High,https://picsum.photos/seed/house441/400/300
+442,Karen White,6332 Broadway Unit 20,"Savannah, GA",2882,622606.49,1 month,False,Low,https://picsum.photos/seed/house442/400/300
+443,Joseph Johnson,4125 2nd St Unit 13,"Dallas, TX",2734,499966.71,1 month,True,Low,https://picsum.photos/seed/house443/400/300
+444,Richard Martinez,4784 Church St Apt 11,"Phoenix, AZ",673,180441.33,Month-to-month,False,Medium,https://picsum.photos/seed/house444/400/300
+445,Lisa Taylor,1954 Washington Ave,"Tampa, FL",2143,347798.9,Month-to-month,False,High,https://picsum.photos/seed/house445/400/300
+446,Donald Miller,7549 Pine Rd Unit 11,"Tucson, AZ",1121,283579.44,3 months,False,Medium,https://picsum.photos/seed/house446/400/300
+447,Barbara Williams,8682 River Rd,"Tampa, FL",2704,490432.32,3 years,False,High,https://picsum.photos/seed/house447/400/300
+448,Margaret Jones,2756 Elm St Apt 12,"Springfield, IL",1717,457097.5,2 years,False,Low,https://picsum.photos/seed/house448/400/300
+449,Donald Jones,3423 Maple St,"Spokane, WA",2488,719290.45,1 month,False,High,https://picsum.photos/seed/house449/400/300
+450,Linda Miller,9747 5th Ave Apt 30,"Houston, TX",2912,663898.65,Lease (12 months),False,Medium,https://picsum.photos/seed/house450/400/300
+451,Sarah Miller,901 Washington Ave Unit 2,"Orlando, FL",600,69710.31,2 years,False,High,https://picsum.photos/seed/house451/400/300
+452,Mary Brown,6931 Washington Ave Unit 10,"Boston, MA",2886,645853.28,Month-to-month,False,Medium,https://picsum.photos/seed/house452/400/300
+453,Sandra Johnson,1625 Main St Apt 21,"Detroit, MI",727,204115.28,3 months,False,Medium,https://picsum.photos/seed/house453/400/300
+454,Patricia Thompson,4596 Broadway Unit 14,"New York, NY",1306,298574.75,Lease (12 months),True,Medium,https://picsum.photos/seed/house454/400/300
+455,Matthew Martin,4805 Lake St Apt 39,"Boulder, CO",2805,896467.02,6 months,False,Medium,https://picsum.photos/seed/house455/400/300
+456,Thomas White,8254 5th Ave,"Portland, OR",1639,511692.38,1 month,False,Medium,https://picsum.photos/seed/house456/400/300
+457,Patricia White,3496 Lake St Apt 27,"Orlando, FL",2745,755192.33,1 year,False,Low,https://picsum.photos/seed/house457/400/300
+458,Betty Williams,5142 Main St Apt 33,"Charlotte, NC",475,56852.32,5 years,False,Medium,https://picsum.photos/seed/house458/400/300
+459,James Garcia,3278 Broadway Apt 22,"Columbus, OH",595,146537.42,Month-to-month,False,High,https://picsum.photos/seed/house459/400/300
+460,Joseph Wilson,1017 2nd St Unit 19,"Boston, MA",1742,374591.67,3 years,False,Low,https://picsum.photos/seed/house460/400/300
+461,John Rodriguez,610 Broadway,"Savannah, GA",2930,533132.55,2 years,False,High,https://picsum.photos/seed/house461/400/300
+462,Matthew Johnson,4548 Lake St,"Orlando, FL",2301,647116.35,Lease (12 months),False,Low,https://picsum.photos/seed/house462/400/300
+463,Barbara Johnson,3411 Pine Rd,"Columbus, OH",2426,721368.79,3 years,False,Medium,https://picsum.photos/seed/house463/400/300
+464,Thomas Martinez,5463 Elm St Unit 17,"San Francisco, CA",1290,335267.47,Lease (12 months),True,Low,https://picsum.photos/seed/house464/400/300
+465,Sandra Johnson,9836 Pine Rd,"Los Angeles, CA",2582,697294.86,1 month,False,High,https://picsum.photos/seed/house465/400/300
+466,Daniel Miller,5357 Lincoln Dr Apt 13,"Atlanta, GA",1757,478843.47,2 years,True,Low,https://picsum.photos/seed/house466/400/300
+467,Patricia Smith,9268 2nd St Unit 7,"Orlando, FL",2700,438610.27,2 years,False,Low,https://picsum.photos/seed/house467/400/300
+468,Robert Martinez,5649 Hillcrest Dr,"Austin, TX",2378,704075.87,5 years,True,Low,https://picsum.photos/seed/house468/400/300
+469,Richard Garcia,9866 Church St Apt 40,"Miami, FL",1261,328669.41,Lease (12 months),True,Featured,https://picsum.photos/seed/house469/400/300
+470,Anthony Anderson,9402 Elm St,"Spokane, WA",1721,435031.23,Month-to-month,False,Low,https://picsum.photos/seed/house470/400/300
+471,Linda Jones,4327 Highland Dr Unit 6,"Salt Lake City, UT",3174,539021.85,3 years,False,Medium,https://picsum.photos/seed/house471/400/300
+472,Robert Thomas,1949 Highland Dr,"Springfield, IL",1877,427420.77,3 months,False,High,https://picsum.photos/seed/house472/400/300
+473,Betty Brown,5439 Hillcrest Dr Unit 10,"Spokane, WA",2091,471967.96,1 year,False,Low,https://picsum.photos/seed/house473/400/300
+474,Jessica Gonzalez,1182 Broadway Apt 14,"Columbus, OH",2233,494128.01,1 year,True,Medium,https://picsum.photos/seed/house474/400/300
+475,Robert White,9507 5th Ave Unit 19,"Spokane, WA",1782,399328.71,6 months,False,Featured,https://picsum.photos/seed/house475/400/300
+476,Robert Martin,1881 River Rd Unit 16,"Boston, MA",701,89027.31,1 month,True,Medium,https://picsum.photos/seed/house476/400/300
+477,Joseph Moore,4875 River Rd Apt 40,"New York, NY",1292,320131.48,2 years,False,Medium,https://picsum.photos/seed/house477/400/300
+478,Sandra Lopez,1562 Maple St Apt 40,"Minneapolis, MN",972,274314.27,Lease (12 months),True,Low,https://picsum.photos/seed/house478/400/300
+479,Sarah Lopez,1897 Main St Apt 2,"Portland, OR",2867,519377.02,5 years,False,Low,https://picsum.photos/seed/house479/400/300
+480,Sarah Miller,2941 5th Ave Unit 7,"Tampa, FL",1925,543228.83,6 months,True,Low,https://picsum.photos/seed/house480/400/300
+481,Daniel Smith,2459 5th Ave,"San Francisco, CA",3080,860332.1,5 years,False,Low,https://picsum.photos/seed/house481/400/300
+482,Thomas Wilson,9144 Church St,"San Diego, CA",2189,507953.27,1 year,False,Medium,https://picsum.photos/seed/house482/400/300
+483,Susan Moore,9542 Highland Dr Unit 2,"Denver, CO",1959,231929.13,3 months,True,Medium,https://picsum.photos/seed/house483/400/300
+484,Thomas Rodriguez,7717 2nd St Unit 17,"Houston, TX",1454,298690.98,3 months,False,Medium,https://picsum.photos/seed/house484/400/300
+485,Betty Jackson,5219 Oak Ave,"Denver, CO",2309,484454.65,3 years,False,Low,https://picsum.photos/seed/house485/400/300
+486,Betty Martinez,4838 Washington Ave Unit 20,"Springfield, IL",2758,421015.5,6 months,False,Low,https://picsum.photos/seed/house486/400/300
+487,Elizabeth White,547 Main St,"Boulder, CO",764,218932.94,6 months,False,Low,https://picsum.photos/seed/house487/400/300
+488,Margaret Rodriguez,332 Cedar Blvd Unit 6,"Nashville, TN",1069,260671.93,6 months,False,High,https://picsum.photos/seed/house488/400/300
+489,Linda Thomas,3062 2nd St,"San Francisco, CA",2889,878669.35,Month-to-month,False,High,https://picsum.photos/seed/house489/400/300
+490,Linda Perez,7311 Washington Ave Unit 19,"Detroit, MI",1863,191235.97,3 months,True,Low,https://picsum.photos/seed/house490/400/300
+491,Richard Thomas,5037 5th Ave Apt 35,"Boston, MA",2047,405574.52,5 years,True,Low,https://picsum.photos/seed/house491/400/300
+492,Betty Anderson,6358 Broadway,"Salt Lake City, UT",2626,635455.11,5 years,False,High,https://picsum.photos/seed/house492/400/300
+493,Margaret Rodriguez,5588 Park Ave Apt 18,"Tucson, AZ",2842,521924.59,1 year,False,Medium,https://picsum.photos/seed/house493/400/300
+494,Anthony Miller,8618 Broadway Unit 11,"Austin, TX",484,131382.9,3 months,False,Low,https://picsum.photos/seed/house494/400/300
+495,Joseph Lopez,3694 Main St,"Austin, TX",2987,345764.69,1 year,False,Medium,https://picsum.photos/seed/house495/400/300
+496,Matthew Brown,1515 Elm St,"Las Vegas, NV",904,226067.02,Month-to-month,False,High,https://picsum.photos/seed/house496/400/300
+497,Daniel Anderson,4628 Lake St,"Charlotte, NC",753,112041.17,5 years,False,Featured,https://picsum.photos/seed/house497/400/300
+498,William Rodriguez,3015 Church St,"Phoenix, AZ",2058,274524.96,6 months,False,High,https://picsum.photos/seed/house498/400/300
+499,Michael Martin,1840 Church St,"Houston, TX",738,163411.95,Month-to-month,True,High,https://picsum.photos/seed/house499/400/300
+500,John Lee,114 Oak Ave,"Portland, OR",1800,543004.47,Lease (12 months),False,High,https://picsum.photos/seed/house500/400/300
