@@ -15,7 +15,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🏠 US Housing Support System")
+st.title("🏠 AMH Housing Support System")
 st.caption("Streamlit • MongoDB Atlas • NLP-based complaint routing")
 
 st.markdown(
