@@ -10,7 +10,7 @@ evaluation metrics as a demo/insights section.
 import streamlit as st
 
 st.set_page_config(
-    page_title="US Housing Support System",
+    page_title="AMH Housing Support System",
     page_icon="🏠",
     layout="wide",
 )
