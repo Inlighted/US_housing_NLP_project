@@ -62,19 +62,6 @@ The system automatically understands customer complaints and predicts:
 - Sub-Service Category
 - Confidence Score
 
-User Input:
-"My AC is not working and the apartment is very hot"
-
-Prediction:
-
-Branch:
-Maintenance
-
-Sub-Service:
-HVAC
-
-Confidence:
-92%
 ---
 
 ## 📧 Automatic Email Routing
@@ -130,3 +117,17 @@ Capabilities:
 
 
 Example:
+
+User Input:
+"My AC is not working and the apartment is very hot"
+
+Prediction:
+
+Branch:
+Maintenance
+
+Sub-Service:
+HVAC
+
+Confidence:
+92%
